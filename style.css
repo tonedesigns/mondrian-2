@@ -1,0 +1,192 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.frame{
+    width: 650px;
+    height: 950px;
+    background-color: rgb(0, 0, 0);
+}
+
+.bigWrapBoi{
+    width: 600px;
+    height: 900px;
+    background-color: rgb(25, 24, 24);
+    display: grid;
+    grid-template-rows: 250px 335px 1rem;
+    gap: 10px;
+    border: 10px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.athroughd{
+    display: flex;
+    gap: 10px;
+    border: 10px;
+    height: 250px;
+    width: 600px;
+}
+
+.abox{
+    width: 150px;
+    height: 250px;
+    background-color: white;
+}
+
+.bbox{
+    background-color: white;
+    width: 225px;
+    height: 250px;
+}
+
+.cbox{
+    background-color: yellow;
+    width: 200px;
+    height: 250px;
+}
+
+.dbox{
+    background-color: rgb(247, 247, 247);
+    width: 10%;
+    height: 250px;
+}
+
+.ethroughn{
+    display: grid;
+    height: 335px;
+    grid-template-columns: 90px 250px 175px 55px;
+    grid-template-rows: 150px;
+    gap: 10px;
+    width: 100%;
+}
+
+.ebox{
+    background-color: aliceblue;
+    width: 90px;
+    height: 150px;
+}
+
+.fbox{
+    background-color: rgb(220, 30, 30);
+    width: 250px;
+    height: 250px;
+}
+
+.gbox{
+    background-color: yellow;
+    width: 175px;
+    height: 120px;
+}
+
+.hbox{
+    background-color: rgb(255, 255, 255);
+    width: 55px;
+    height: 335px;
+}
+
+.ibox{
+    background-color: rgb(247, 251, 255);
+    width: 90px;
+    height: 175px;
+}
+
+.jbox{
+    background-color: rgb(234, 225, 225);
+    width: 80px;
+    height: 120px;
+    margin-top: -30px;
+    margin-left: 260px;
+}
+
+.kbox{
+    background-color: rgb(248, 243, 237);
+    width: 85px;
+    height: 120px;
+    margin-top: -30px;
+    margin-left: 90px;
+}
+
+.lbox{
+    background-color: rgb(0, 0, 0);
+    width: 115px;
+    height: 125px;
+    margin-inline-start: -445px;
+    margin-top: 100px;
+    position:inherit ;
+}
+
+.mbox{
+    background-color: rgb(249, 247, 247);
+    width: 125px;
+    height: 75px;
+    margin-inline-start: 225px;
+    margin-top: -135px;
+}
+
+.nbox{
+    background-color: aliceblue;
+    width: 175px;
+    height: 75px;
+    margin-inline-start: 260px;
+    margin-top: -135px;
+}
+
+.othroughu{
+    display: grid;
+    grid-template-columns: 90px 115px 125px 175px 55px;
+    grid-template-rows: 150px;
+    gap: 10px;
+}
+
+.obox{
+    background-color: rgb(243, 236, 40);
+    width: 90px;
+    height: 295px;
+}
+
+.pbox{
+    background-color: rgb(247, 251, 255);
+    width: 115px;
+    height: 245px;
+    margin-top: 50px;
+}
+
+.qbox{
+    background-color: rgb(249, 247, 247);
+    width: 125px;
+    height: 75px;
+}
+
+.rbox{
+    background-color: rgb(6, 47, 82);
+    width: 175px;
+    height: 125px;
+}
+
+.ubox{
+    background-color: rgb(230, 57, 57);
+    width: 55px;
+    height: 295px;
+    margin-inline-start: 445px;
+    margin-top: -160px;
+}
+
+.sbox{
+    background-color: rgb(0, 0, 0);
+    width: 125px;
+    height: 40px;
+    margin-inline-start: -320px;
+    margin-top: 85px;
+}
+
+.tbox{
+    background-color: rgb(230, 228, 228);
+    width: 310px;
+    height: 160px;
+    margin-inline-start: 225px;
+    margin-top: -25px;
+}
